@@ -1,0 +1,885 @@
+fileFormatVersion: 2
+guid: 197b66d9121c48a418b851a2e940dda5
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 11
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: hoboiuvz:hoboi_basic_material:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoboiuvz:hoboi_basic_material:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: hoboi_rigged(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:Group4955
+      parentName: hoboi_rigged(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:Hips
+      parentName: hoboi_rigged(Clone)
+      position: {x: -0.00029413673, y: 0.65461046, z: 0.027286706}
+      rotation: {x: -0.000005087864, y: -0.000031198328, z: 0.00069215737, w: 0.99999976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:Spine
+      parentName: hoboiuvz:hoboi_basic_material:Hips
+      position: {x: -0, y: 0.13550372, z: 0.00930185}
+      rotation: {x: 0.034267817, y: 0.0000074646787, z: -0.00069282, w: 0.9994125}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:Spine1
+      parentName: hoboiuvz:hoboi_basic_material:Spine
+      position: {x: -0, y: 0.1584598, z: 1.14587985e-10}
+      rotation: {x: -2.8589155e-27, y: 4.183111e-15, z: 6.834424e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:Spine2
+      parentName: hoboiuvz:hoboi_basic_material:Spine1
+      position: {x: -0, y: 0.18109682, z: 1.9236314e-10}
+      rotation: {x: 0, y: -2.4849119e-29, z: 5.475656e-27, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightShoulder
+      parentName: hoboiuvz:hoboi_basic_material:Spine2
+      position: {x: 0.07690522, y: 0.17455095, z: 0.0014917731}
+      rotation: {x: 0.5807082, y: 0.40731496, z: -0.5703562, w: 0.41420567}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightArm
+      parentName: hoboiuvz:hoboi_basic_material:RightShoulder
+      position: {x: 7.5010206e-11, y: 0.16327862, z: -0.0000000015513258}
+      rotation: {x: -0.17537522, y: -0.019396542, z: -0.006010177, w: 0.9842922}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightForeArm
+      parentName: hoboiuvz:hoboi_basic_material:RightArm
+      position: {x: -3.946919e-10, y: 0.20230623, z: 2.5712568e-10}
+      rotation: {x: 0.00000004884648, y: -0.00041230145, z: -0.00000010662963, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHand
+      parentName: hoboiuvz:hoboi_basic_material:RightForeArm
+      position: {x: 2.2340389e-10, y: 0.33400005, z: 4.747133e-10}
+      rotation: {x: 0.08307748, y: 0.0142131355, z: -0.1982365, w: 0.97652364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandThumb1
+      parentName: hoboiuvz:hoboi_basic_material:RightHand
+      position: {x: -0.03506053, y: -0.0055984566, z: 0.027576309}
+      rotation: {x: -0.012702432, y: 0.0032362707, z: 0.3406507, w: 0.9400986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandThumb2
+      parentName: hoboiuvz:hoboi_basic_material:RightHandThumb1
+      position: {x: -0.014652894, y: 0.032844346, z: -9.306917e-10}
+      rotation: {x: -0.001207556, y: 0.0060654585, z: 0.22121784, w: 0.9752048}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandThumb3
+      parentName: hoboiuvz:hoboi_basic_material:RightHandThumb2
+      position: {x: 0.0012787613, y: 0.048060793, z: 5.28858e-10}
+      rotation: {x: -0.007948807, y: -0.035860997, z: 0.19028407, w: 0.98104167}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandThumb4
+      parentName: hoboiuvz:hoboi_basic_material:RightHandThumb3
+      position: {x: 0.013374134, y: 0.03079785, z: 5.0524207e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandIndex1
+      parentName: hoboiuvz:hoboi_basic_material:RightHand
+      position: {x: -0.06479001, y: 0.045695674, z: 0.009191378}
+      rotation: {x: -0.08479292, y: -0.0056406637, z: 0.19927551, w: 0.97625184}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandIndex2
+      parentName: hoboiuvz:hoboi_basic_material:RightHandIndex1
+      position: {x: 0.00017443763, y: 0.04875476, z: -6.748238e-10}
+      rotation: {x: 0.00000015559714, y: -0.00013191016, z: -0.004828695, w: 0.9999884}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandIndex3
+      parentName: hoboiuvz:hoboi_basic_material:RightHandIndex2
+      position: {x: -0.00027031222, y: 0.045479495, z: 6.945136e-10}
+      rotation: {x: -0.00000040116606, y: 0.00012311549, z: 0.004608755, w: 0.9999894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandIndex4
+      parentName: hoboiuvz:hoboi_basic_material:RightHandIndex3
+      position: {x: 0.00009587539, y: 0.03122636, z: -0.0000000010394235}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandMiddle1
+      parentName: hoboiuvz:hoboi_basic_material:RightHand
+      position: {x: -0.035397436, y: 0.08349305, z: -0.015443611}
+      rotation: {x: -0.07668009, y: -0.0440384, z: 0.18999209, w: 0.97779536}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandMiddle2
+      parentName: hoboiuvz:hoboi_basic_material:RightHandMiddle1
+      position: {x: -0.0011618475, y: 0.05359495, z: -0.000000002178178}
+      rotation: {x: 0.00000012038545, y: -0.00012634565, z: 0.020922683, w: 0.9997811}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandMiddle3
+      parentName: hoboiuvz:hoboi_basic_material:RightHandMiddle2
+      position: {x: 0.0010450825, y: 0.051996753, z: 0.0000000034262493}
+      rotation: {x: -0.000010511182, y: -0.0008846639, z: -0.008532969, w: 0.9999632}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandMiddle4
+      parentName: hoboiuvz:hoboi_basic_material:RightHandMiddle3
+      position: {x: 0.00011676573, y: 0.039950803, z: -0.0000000016791134}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandRing1
+      parentName: hoboiuvz:hoboi_basic_material:RightHand
+      position: {x: 0.026666392, y: 0.07734083, z: 0.0022886787}
+      rotation: {x: -0.08057575, y: -0.025583584, z: 0.17667392, w: 0.9806321}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandRing2
+      parentName: hoboiuvz:hoboi_basic_material:RightHandRing1
+      position: {x: -0.0019981563, y: 0.04377445, z: -5.712554e-10}
+      rotation: {x: 0.000018529103, y: -0.0020362972, z: 0.036603887, w: 0.9993278}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandRing3
+      parentName: hoboiuvz:hoboi_basic_material:RightHandRing2
+      position: {x: 0.0011241414, y: 0.040766515, z: 0.0000000017504536}
+      rotation: {x: 0.00000043234886, y: 0.000019344925, z: -0.0006597931, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandRing4
+      parentName: hoboiuvz:hoboi_basic_material:RightHandRing3
+      position: {x: 0.0008740165, y: 0.03316289, z: -0.0000000020203403}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandPinky1
+      parentName: hoboiuvz:hoboi_basic_material:RightHand
+      position: {x: 0.07352103, y: 0.06746307, z: 0.0032519992}
+      rotation: {x: -0.074132964, y: -0.0605953, z: 0.21413465, w: 0.97210026}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandPinky2
+      parentName: hoboiuvz:hoboi_basic_material:RightHandPinky1
+      position: {x: 0.00083447207, y: 0.033602506, z: -9.796126e-10}
+      rotation: {x: -0.0000104899, y: -0.00078622776, z: -0.011769199, w: 0.99993044}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandPinky3
+      parentName: hoboiuvz:hoboi_basic_material:RightHandPinky2
+      position: {x: 0.000038239352, y: 0.024744956, z: -3.723669e-10}
+      rotation: {x: -0.00019834391, y: 0.006022835, z: -0.03419743, w: 0.9993969}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightHandPinky4
+      parentName: hoboiuvz:hoboi_basic_material:RightHandPinky3
+      position: {x: -0.00087271, y: 0.012940279, z: 1.8474765e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:Neck
+      parentName: hoboiuvz:hoboi_basic_material:Spine2
+      position: {x: -0, y: 0.20373395, z: -0.0000000073031674}
+      rotation: {x: -0.15488188, y: -9.902721e-12, z: -1.7166084e-10, w: 0.987933}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:Head
+      parentName: hoboiuvz:hoboi_basic_material:Neck
+      position: {x: -0, y: 0.043990202, z: 0.039335743}
+      rotation: {x: 0, y: 0, z: 2.0194928e-27, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:HeadTop_End
+      parentName: hoboiuvz:hoboi_basic_material:Head
+      position: {x: -0, y: 0.26496214, z: 0.23692733}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftShoulder
+      parentName: hoboiuvz:hoboi_basic_material:Spine2
+      position: {x: -0.07690522, y: 0.17462085, z: 0.0025100354}
+      rotation: {x: 0.58416945, y: -0.40507776, z: 0.5664554, w: 0.41687694}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftArm
+      parentName: hoboiuvz:hoboi_basic_material:LeftShoulder
+      position: {x: -1.3563545e-10, y: 0.16327862, z: -0.0000000015469142}
+      rotation: {x: -0.17499007, y: 0.015911497, z: 0.013405777, w: 0.9843503}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftForeArm
+      parentName: hoboiuvz:hoboi_basic_material:LeftArm
+      position: {x: -2.1687754e-10, y: 0.20195542, z: 1.8336696e-10}
+      rotation: {x: -0.00000017877751, y: 0.00037985313, z: 0.00000014146987, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHand
+      parentName: hoboiuvz:hoboi_basic_material:LeftForeArm
+      position: {x: 1.8754488e-10, y: 0.333988, z: -0.0000000011117723}
+      rotation: {x: 0.06964651, y: 0.007758294, z: 0.20003845, w: 0.97727877}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandThumb1
+      parentName: hoboiuvz:hoboi_basic_material:LeftHand
+      position: {x: 0.03550332, y: -0.006589192, z: 0.025890397}
+      rotation: {x: -0.0052499003, y: -0.027841229, z: -0.33788916, w: 0.94075936}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandThumb2
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandThumb1
+      position: {x: 0.014740382, y: 0.032345273, z: -1.04410224e-10}
+      rotation: {x: -0.00010862903, y: -0.0005995709, z: -0.2457575, w: 0.9693312}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandThumb3
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandThumb2
+      position: {x: -0.0033212386, y: 0.048103783, z: -0.0000000014747811}
+      rotation: {x: -0.007179994, y: 0.036515824, z: -0.12479094, w: 0.9914849}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandThumb4
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandThumb3
+      position: {x: -0.0114191435, y: 0.03452603, z: -4.4744083e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandRing1
+      parentName: hoboiuvz:hoboi_basic_material:LeftHand
+      position: {x: -0.025831962, y: 0.08217041, z: -0.0045636133}
+      rotation: {x: -0.05746093, y: 0.050115097, z: -0.19810757, w: 0.9772104}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandRing2
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandRing1
+      position: {x: 0.00049483916, y: 0.042529773, z: 0.0000000033771885}
+      rotation: {x: 0.0000006902557, y: -0.00029798085, z: -0.0146419, w: 0.9998928}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandRing3
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandRing2
+      position: {x: -0.0006892961, y: 0.039275475, z: -0.0000000024214009}
+      rotation: {x: -0.0000019180059, y: 0.00034902856, z: 0.012038864, w: 0.99992746}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandRing4
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandRing3
+      position: {x: 0.00019445665, y: 0.030778471, z: -0.0000000015895174}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandPinky1
+      parentName: hoboiuvz:hoboi_basic_material:LeftHand
+      position: {x: -0.074153244, y: 0.06966598, z: 0.0006085856}
+      rotation: {x: -0.05210132, y: 0.08394419, z: -0.22586052, w: 0.96913666}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandPinky2
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandPinky1
+      position: {x: -0.0013420309, y: 0.032386605, z: -0.0000000027280775}
+      rotation: {x: -0.000038523587, y: 0.0020747932, z: 0.022683384, w: 0.99974054}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandPinky3
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandPinky2
+      position: {x: 0.00010153463, y: 0.025032103, z: 0.00000000182129}
+      rotation: {x: -0.0005135558, y: -0.010709398, z: 0.04392391, w: 0.99897736}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandPinky4
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandPinky3
+      position: {x: 0.0012404926, y: 0.013494689, z: 1.3427251e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandMiddle1
+      parentName: hoboiuvz:hoboi_basic_material:LeftHand
+      position: {x: 0.03692891, y: 0.08573354, z: -0.0125277955}
+      rotation: {x: -0.057105962, y: 0.049916867, z: -0.1876372, w: 0.9793056}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandMiddle2
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandMiddle1
+      position: {x: 0.0017988699, y: 0.054741304, z: -0.0000000032595566}
+      rotation: {x: 0.000012350675, y: 0.0014173631, z: -0.024190886, w: 0.9997064}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandMiddle3
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandMiddle2
+      position: {x: -0.00078563107, y: 0.050575037, z: 0.0000000012920005}
+      rotation: {x: 0.0000041669077, y: -0.00023066305, z: -0.004389076, w: 0.99999034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandMiddle4
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandMiddle3
+      position: {x: -0.0010132435, y: 0.04178288, z: 9.855583e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandIndex1
+      parentName: hoboiuvz:hoboi_basic_material:LeftHand
+      position: {x: 0.06305633, y: 0.045188054, z: 0.004544952}
+      rotation: {x: -0.06920499, y: -0.0061007063, z: -0.20515199, w: 0.9762613}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandIndex2
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandIndex1
+      position: {x: -0.0005038884, y: 0.049706195, z: -0.0000000015499182}
+      rotation: {x: 0.0000014446373, y: -0.00030817298, z: 0.0054469416, w: 0.99998516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandIndex3
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandIndex2
+      position: {x: 0.000036902406, y: 0.04615483, z: 0.0000000038006904}
+      rotation: {x: 0.0000016074822, y: 0.00021576259, z: 0.00647797, w: 0.999979}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftHandIndex4
+      parentName: hoboiuvz:hoboi_basic_material:LeftHandIndex3
+      position: {x: 0.00046698694, y: 0.033792615, z: 2.0622085e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightUpLeg
+      parentName: hoboiuvz:hoboi_basic_material:Hips
+      position: {x: 0.12645847, y: -0.07529497, z: -0.027605224}
+      rotation: {x: 0.0010593256, y: 0.07218579, z: 0.9972793, w: -0.014906998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightLeg
+      parentName: hoboiuvz:hoboi_basic_material:RightUpLeg
+      position: {x: -6.1601363e-10, y: 0.25360247, z: -2.6805723e-12}
+      rotation: {x: -0.23865262, y: 0.005585844, z: -0.040420268, w: 0.9702473}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightFoot
+      parentName: hoboiuvz:hoboi_basic_material:RightLeg
+      position: {x: -6.2189136e-11, y: 0.16106321, z: -0.00000000197934}
+      rotation: {x: 0.5656246, y: 0.019285498, z: 0.047878522, w: 0.8230459}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightToeBase
+      parentName: hoboiuvz:hoboi_basic_material:RightFoot
+      position: {x: -5.2120464e-10, y: 0.26082882, z: 0.000000011217548}
+      rotation: {x: 0.34330386, y: -0.07261139, z: 0.02663117, w: 0.9360347}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:RightToe_End
+      parentName: hoboiuvz:hoboi_basic_material:RightToeBase
+      position: {x: -2.2539358e-10, y: 0.10972944, z: 1.4413174e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftUpLeg
+      parentName: hoboiuvz:hoboi_basic_material:Hips
+      position: {x: -0.12645847, y: -0.07529497, z: -0.029468108}
+      rotation: {x: -0.00056664157, y: 0.037867963, z: 0.99917483, w: 0.014676693}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftLeg
+      parentName: hoboiuvz:hoboi_basic_material:LeftUpLeg
+      position: {x: 3.294509e-10, y: 0.2536025, z: -7.895327e-12}
+      rotation: {x: -0.14945464, y: -0.0039327103, z: 0.038091857, w: 0.9880268}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftFoot
+      parentName: hoboiuvz:hoboi_basic_material:LeftLeg
+      position: {x: 2.61048e-10, y: 0.15350536, z: -0.000000001526284}
+      rotation: {x: 0.49381343, y: -0.021361668, z: -0.046703815, w: 0.86805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftToeBase
+      parentName: hoboiuvz:hoboi_basic_material:LeftFoot
+      position: {x: -1.3567725e-10, y: 0.24480213, z: -0.0000000019960713}
+      rotation: {x: 0.36955708, y: 0.069443844, z: -0.027708432, w: 0.92619514}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoboiuvz:hoboi_basic_material:LeftToe_End
+      parentName: hoboiuvz:hoboi_basic_material:LeftToeBase
+      position: {x: 9.1532386e-11, y: 0.109146416, z: 5.22976e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 11
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 84da3c0ecb9d7cd4b9e54bfc19706608, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
